@@ -9,7 +9,7 @@ on:
 
 env:
   ROOT_PATH: MauiApp/
-  CSPROJ_PATH: MauiApp/MauiApp.csproj
+  CSPROJ_PATH: MauiApp/TestApp.csproj
   ARTIFACTS_MACOS_PATH: artifacts_macos # RELATIVE TO github.workspace
 
 jobs:
